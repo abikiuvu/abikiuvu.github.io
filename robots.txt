@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://abikiuvu.github.io/LYa/sitemap_index.txt
+Sitemap: https://abikiuvu.github.io/QIs/sitemap_index.txt
+Sitemap: https://abikiuvu.github.io/rgx/sitemap_index.txt
+Sitemap: https://abikiuvu.github.io/xnm/sitemap_index.txt
